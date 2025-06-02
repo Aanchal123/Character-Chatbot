@@ -8,3 +8,5 @@ In this project, I have developed a model where the user can create a chatbot sp
 It was made possible by using Simple Transformers Model along with the pre-trained model provided by Hugging Face. This includes the training dataset for various personality traits; but for giving the chatbot a unique default character, I trained the model and fine-tuned it to a dataset we created ourselves in the same JSON format from every episode’s script of the show. 
 
 Lastly I used Tkinter package to build the GUI for the chatbot and connected it the trained model and the chatbot was ready to chat.
+
+Published paper: https://www.ijraset.com/fileserve.php?FID=35090
